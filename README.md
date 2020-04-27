@@ -6,7 +6,7 @@ Libraries used  - Glob , cv2 , numpy , os  , pandas , sklearn , csv
 
 # Fruits Considered
 
-1. Apple
+1.Apple
 
 2.Banana
 
@@ -20,12 +20,16 @@ While implementing the decision tree we will go through the following two phases
 
 2.Operational Phase
 
-   1. Building Phase
+# 1. Building Phase
+        
         ◦ Pre process the data set.
+        
         ◦ Split the data set from train and test using Python 		sklearn package.
+        
         ◦ Train the classifier.
 
-       2. Operational Phase
+ # 2. Operational Phase
+ 
         ◦ Make predictions.
 
 # Procedure
