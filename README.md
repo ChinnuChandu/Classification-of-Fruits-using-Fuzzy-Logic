@@ -14,7 +14,7 @@ Libraries used  - Glob , cv2 , numpy , os  , pandas , sklearn , csv
 
 4.Orange 
 
-While implementing the decision tree we will go through the following two phases:
+# While implementing the decision tree we will go through the following two phases:
 
 1.Building Phase 
 
@@ -22,15 +22,15 @@ While implementing the decision tree we will go through the following two phases
 
 # 1. Building Phase
         
-        ◦ Pre process the data set.
+◦ Pre process the data set.
         
-        ◦ Split the data set from train and test using Python 		sklearn package.
+◦ Split the data set from train and test using Python sklearn package.
         
-        ◦ Train the classifier.
+◦ Train the classifier.
 
  # 2. Operational Phase
  
-        ◦ Make predictions.
+◦ Make predictions.
 
 # Procedure
 
